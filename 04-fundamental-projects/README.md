@@ -54,4 +54,4 @@ Please note that the steps provided are intentionally somewhat vague. The purpos
 - Coding Addict - [Default Starter Video](https://youtu.be/UDdyGNlQK5w)
 - Repo - [Default Starter Repo](https://github.com/john-smilga/default-starter)
 
-/?? connecting to github commit??/
+/?? connecting to github commitdd??/

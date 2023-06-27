@@ -36,7 +36,6 @@ npm run dev
 
 Please note that the steps provided are intentionally somewhat vague. The purpose of this challenge is to encourage creative thinking and problem-solving by allowing for multiple possible solutions. Therefore, feel free to interpret these steps in your own way and adapt them to your unique circumstances. Don't be afraid to think outside the box and come up with innovative approaches to the task at hand!
 
-
 #### Size
 
 - since VITE is way smaller in size, it's less of an issue but still...
@@ -54,3 +53,5 @@ Please note that the steps provided are intentionally somewhat vague. The purpos
 - Global Styles
 - Coding Addict - [Default Starter Video](https://youtu.be/UDdyGNlQK5w)
 - Repo - [Default Starter Repo](https://github.com/john-smilga/default-starter)
+
+/?? connecting to github commit??/
